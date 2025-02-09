@@ -49,10 +49,12 @@
 ## Screenshots
 
 ### Preprocessing Flow
-![Preprocessing Architecture](link-to-preprocessing-image)
+![Preprocessing Architecture](<img width="694" alt="image" src="https://github.com/user-attachments/assets/8c1ee7b0-3a34-402c-a3df-c06c5748388c" />
+)
 
 ### Searching Flow
-![Searching Architecture](link-to-searching-image)
+![Searching Architecture](<img width="861" alt="image" src="https://github.com/user-attachments/assets/70f4d654-a21f-4350-857a-52a479ac74db" />
+)
 
 ## Installation
 
